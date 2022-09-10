@@ -44,6 +44,12 @@ I'm Currently Working at Crownit as a Software Developer. I am creatively curiou
   <a title="React" href="https://reactjs.org/">
     <img src="https://img.icons8.com/office/45/react.png"/>
   </a>
+  <a title="SQL" href="https://dev.mysql.com/">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
+  </a>
+  <a title="Mongo DB" href="https://www.mongodb.com/">
+    <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  </a>
   <a title="Bootstrap" href="https://getbootstrap.com/">
     <img src="https://img.icons8.com/color/48/bootstrap.png"/>
   </a>
