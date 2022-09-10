@@ -8,7 +8,7 @@
 I'm Currently Working at Crownit as a Software Developer. I am creatively curious and a self learner. <br>
 
 
-- 🌱 I’m currently focusing on **Web developement Backend | Frontend** on nodejs and having hands on Frameworks like **Angular | React**.
+- 🌱 I’m currently focusing on **Web developement Backend | Frontend** on nodejs and having hands on Frameworks and libraries like **Angular | React**.
 - 💬 I’m also looking forward to contribute to **Open Source Projects**.
 
 <br>
