@@ -13,7 +13,7 @@ I'm Currently Working at Crownit as a Software Developer. I am creatively curiou
 
 <br>
 
-<h3 align="left">Languages, Frameworks, Libraries and Tools:</h3>
+<h3 align="left">Languages Tools:</h3>
 <p align="left"> 
   <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
