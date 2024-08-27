@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-30302f?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/ifaiz2)
 <img src="https://komarev.com/ghpvc/?username=faizahmd2&style=plastic" />
 
-I'm Currently Working at Crownit as a Software Developer. I am creatively curious and a self learner. <br>
+I'm Currently Working at Ipsos India as a Software Developer. I am creatively curious and a self learner. <br>
 
 
 - 🌱 I’m currently focusing on **Web developement Backend | Frontend** on nodejs and having hands on Frameworks and libraries like **Angular | React**.
