@@ -1,7 +1,7 @@
 <h1>Hey there, I'm <a  href="https://github.com/faizahmd2/">Faiz Ahmad </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/Faiz_Ahmad-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ifaiz2)
-[![Gmail Badge](https://img.shields.io/badge/Email_me-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:faizuahmd53@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Email_me-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:faizahmad10.dev@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-30302f?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/ifaiz2)
 <img src="https://komarev.com/ghpvc/?username=faizahmd2&style=plastic" />
 
